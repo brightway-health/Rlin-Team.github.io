@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yannick Cohen -- Co-Founder -- @ydcohen
+    George Gruner -- Co-Founder
+    George Yates -- Co-Founder -- @georgeyatesiii
 
 # THANKS
 
-    <name>
+    Arlan Cohen
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
